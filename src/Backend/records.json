@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Ram Kumar",
+        "age": 25,
+        "city": "Coimbatore"
+    },
+    {
+        "id": 2,
+        "name": "Sita Sharma",
+        "age": 28,
+        "city": "Chennai"
+    },
+    {
+        "id": 3,
+        "name": "Mohan Lal",
+        "age": 22,
+        "city": "Bangalore"
+    },
+    {
+        "id": 4,
+        "name": "Radha Iyer",
+        "age": 26,
+        "city": "Mumbai"
+    },
+    {
+        "id": 5,
+        "name": "Shyam Pillai",
+        "age": 24,
+        "city": "Kochi"
+    },
+    {
+        "id": 6,
+        "name": "Gopal Das",
+        "age": 27,
+        "city": "Delhi"
+    },
+    {
+        "id": 7,
+        "name": "Anita Rao",
+        "age": 30,
+        "city": "Hyderabad"
+    },
+    {
+        "id": 8,
+        "name": "Vikram Singh",
+        "age": 23,
+        "city": "Jaipur"
+    },
+    {
+        "id": 9,
+        "name": "Kiran Patil",
+        "age": 29,
+        "city": "Pune"
+    },
+    {
+        "id": 10,
+        "name": "Lakshmi Nair",
+        "age": 31,
+        "city": "Thiruvananthapuram"
+    },
+    {
+        "id": 11,
+        "name": "Arjun Reddy",
+        "age": 25,
+        "city": "Visakhapatnam"
+    },
+    {
+        "id": 12,
+        "name": "Ravi Kumar",
+        "age": 27,
+        "city": "Ahmedabad"
+    },
+    {
+        "id": 13,
+        "name": "Neha Gupta",
+        "age": 26,
+        "city": "Lucknow"
+    },
+    {
+        "id": 14,
+        "name": "Rajesh Mehta",
+        "age": 28,
+        "city": "Surat"
+    },
+    {
+        "id": 15,
+        "name": "Divya Kapoor",
+        "age": 32,
+        "city": "Nagpur"
+    }
+]
