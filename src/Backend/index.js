@@ -18,7 +18,9 @@ app.use(cors())
 
 
 //MongoDB Connection
-mongoose.connect('mongodb://localhost:27017/crud',{
+const url = "mongodb+srv://computingthamizhan:HxzNLJQgnMHX16im@todo.addda.mongodb.net/?retryWrites=true&w=majority&appName=Todo"
+const uri = "mongodb://localhost:27017/crud"
+mongoose.connect(url,{
     // useNewUrlParser:true,
     // useUnifiedTopology:true,
 })
@@ -35,7 +37,7 @@ const todoSchema = new mongoose.Schema({
 //creating model
 const todoModel = mongoose.model('Todo',todoSchema);
 
-
+//Password for mondoDB connection string : HxzNLJQgnMHX16im
 //create a  new todo item
 app.post('/todos', async (req, res)=>{
     const {title,description} = req.body;

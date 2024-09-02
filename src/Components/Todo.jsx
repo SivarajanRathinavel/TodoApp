@@ -10,7 +10,7 @@ export const Todo = () => {
     const[editId,setEditId] = useState(1) //default -1 
     const[updatedTitle, setUpdateTitle] = useState("")
     const[updatedDescription, setUpdatedDescription] = useState("")
-    console.log(editId)
+    // console.log(editId)
     const apiUrl = "http://localhost:5000/"
     const handleSubmit = ()=>{
         setError("")
